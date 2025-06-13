@@ -48,6 +48,9 @@ Se realizan modificaciones sobre listas internas:
 ### 10. Creación de una lista anidada
 Se arma una lista con distintos tipos de datos (int, bool, float y listas anidadas) respetando una estructura específica.
 
+### Trabajo Practico 2
+Este cuenta con varias ejercicios de funciones en un mismo codigo, el cual esta comentado para un futuro uso en otros programas.
+
 ---
 
 ## Cómo ejecutar
